@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "axios": "^0.22.0",
+    "axios": "^1.6.0",
     "confetti-js": "0.0.18",
     "date-fns": "^2.25.0",
     "next": "latest",
